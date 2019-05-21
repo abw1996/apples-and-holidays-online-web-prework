@@ -87,6 +87,8 @@ def all_holidays_with_bbq(holiday_hash)
       if decor.include?("BBQ")
         puts season
       end
+    end
+  end
 end
 
 
